@@ -1,5 +1,5 @@
 import React from 'react';
-import wakamatuunyuPng from '/src/assets/wakamatuunyu.png';
+import wakamatuunyuPng from '../../assets/wakamatuunyu.png';
 
 const Wakamatuunyu = () => {
   return (

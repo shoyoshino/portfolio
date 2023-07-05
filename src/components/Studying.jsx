@@ -10,19 +10,19 @@ const Studying = () => {
       image: valorantSeasonCheckerPng,
       title: 'VALORANT Season Checker',
       description: 'Reactの学習のためAPIを使用したSPAを作成',
-      link: '/works/valorant_season_checker',
+      link: 'https://shoyoshino.github.io/portfolio/works/valorant_season_checker',
     },
     {
       image: comfyhousePng,
       title: 'ヘッドレスCMSを使用した模擬ECサイト制作',
       description: 'データベースなどの情報を使用する方法を学習するために制作',
-      link: '/works/comfyhouse',
+      link: 'https://shoyoshino.github.io/portfolio/works/comfyhouse',
     },
     {
       image: wordpressCorporatePng,
       title: 'WordPress コーポレートサイト制作',
       description: 'WordPressの学習の為制作したコーポレートサイト',
-      link: '/works/wordpress_corporate',
+      link: 'https://shoyoshino.github.io/portfolio/works/wordpress_corporate',
     },
   ];
 

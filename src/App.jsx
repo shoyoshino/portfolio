@@ -19,14 +19,20 @@ function App() {
         <ScrollTop />
         <Header />
         <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/works/valorant_season_checker" element={<ValorantSeasonChecker />} />
-          <Route path="/works/tdk_seven_seas" element={<TdkSevenSeas />} />
-          <Route path="/works/tdk_ceatec_2022" element={<TdkCeatec2022 />} />
-          <Route path="/works/wakamatuunyu" element={<Wakamatuunyu />} />
-          <Route path="/works/wordpress_corporate" element={<WordpressCorporate />} />
-          <Route path="/works/comfyhouse" element={<ComfyHouse />} />
+          <Route path="https://shoyoshino.github.io/portfolio/" element={<Home />} />
+          <Route path="https://shoyoshino.github.io/portfolio/about" element={<About />} />
+          <Route
+            path="https://shoyoshino.github.io/portfolio/works/valorant_season_checker"
+            element={<ValorantSeasonChecker />}
+          />
+          <Route path="https://shoyoshino.github.io/portfolio/works/tdk_seven_seas" element={<TdkSevenSeas />} />
+          <Route path="https://shoyoshino.github.io/portfolio/works/tdk_ceatec_2022" element={<TdkCeatec2022 />} />
+          <Route path="https://shoyoshino.github.io/portfolio/works/wakamatuunyu" element={<Wakamatuunyu />} />
+          <Route
+            path="https://shoyoshino.github.io/portfolio/works/wordpress_corporate"
+            element={<WordpressCorporate />}
+          />
+          <Route path="https://shoyoshino.github.io/portfolio/works/comfyhouse" element={<ComfyHouse />} />
         </Routes>
         <Footer />
       </Router>

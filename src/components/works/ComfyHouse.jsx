@@ -1,5 +1,6 @@
 import React from 'react';
-import comfyhousePng from '/src/assets/comfyhouse.png';
+import comfyhousePng from '../../assets/comfyhouse.png';
+// import comfyhousePng from '/src/assets/comfyhouse.png';
 
 const ComfyHouse = () => {
   return (

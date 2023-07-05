@@ -1,6 +1,6 @@
 import React from 'react';
-import tdkSevenSeasPng from '/src/assets/tdk_seven_seas.png';
-// import valorantSeasonCheckerPng from '../../assets/valorant_season_checker.png';
+// import tdkSevenSeasPng from '/src/assets/tdk_seven_seas.png';
+import tdkSevenSeasPng from '../../assets/tdk_seven_seas.png';
 
 const ValorantSeasonChecker = () => {
   return (

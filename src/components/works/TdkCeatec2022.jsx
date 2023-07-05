@@ -1,5 +1,6 @@
 import React from 'react';
-import tdkceatec2022Png from '/src/assets/tdk_ceatec_2022.png';
+import tdkceatec2022Png from '../../assets/tdk_ceatec_2022.png';
+// import tdkceatec2022Png from '/src/assets/tdk_ceatec_2022.png';
 
 const TdkCeatec2022 = () => {
   return (

@@ -14,7 +14,7 @@ const Header = () => {
         <nav className="md:block hidden">
           <ul className="flex items-center">
             <li>
-              <Link to="/">Home</Link>
+              <Link to="https://shoyoshino.github.io/portfolio/">Home</Link>
             </li>
             {/*
             <li className="ml-4">
@@ -41,7 +41,7 @@ const Header = () => {
         >
           <ul>
             <li>
-              <Link to="/" onClick={handleMenuOpen}>
+              <Link to="https://shoyoshino.github.io/portfolio/" onClick={handleMenuOpen}>
                 Home
               </Link>
             </li>

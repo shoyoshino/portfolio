@@ -1,6 +1,6 @@
 import React from 'react';
-import valorantSeasonCheckerPng from '/src/assets/valorant_season_checker.png';
-// import valorantSeasonCheckerPng from '../../assets/valorant_season_checker.png';
+// import valorantSeasonCheckerPng from '/src/assets/valorant_season_checker.png';
+import valorantSeasonCheckerPng from '../../assets/valorant_season_checker.png';
 
 const ValorantSeasonChecker = () => {
   return (

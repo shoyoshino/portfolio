@@ -12,19 +12,19 @@ const projects = [
     image: tdksevenseasPng,
     title: '某電気機器製造会社様 テクノロジー訴求ページ制作',
     description: '某電気機器製造会社様の7つのテクノロジーをアピールする為のページ制作',
-    url: '/works/tdk_seven_seas',
+    url: 'https://shoyoshino.github.io/portfolio/works/tdk_seven_seas',
   },
   {
     image: tdkceatec2022Png,
     title: '某電気機器製造会社様 イベント特設サイト制作',
     description: '某電気機器製造会社様のイベント出展に際した特設サイトの制作',
-    url: '/works/tdk_ceatec_2022',
+    url: 'https://shoyoshino.github.io/portfolio/works/tdk_ceatec_2022',
   },
   {
     image: wakamatuunyuPng,
     title: '某運送会社様 コーポレートサイト制作',
     description: '某運送会社様の採用強化の為のサイト制作',
-    url: '/works/wakamatuunyu',
+    url: 'https://shoyoshino.github.io/portfolio/works/wakamatuunyu',
   },
 ];
 
