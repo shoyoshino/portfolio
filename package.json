@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d build -m \"Updates --skip-ci\""
+    "deploy": "npm run build && gh-pages -d build"
   },
   "dependencies": {
     "gsap": "^3.12.2",
